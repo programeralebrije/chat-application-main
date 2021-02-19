@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Fully deploy @https://chat-app-ruben-larrazolo.netlify.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
