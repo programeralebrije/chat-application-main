@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Fully deploy @ https://adoring-feynman-e66168.netlify.app/
+Fully deploy @https://chat-app-ruben-larrazolo.netlify.app/
 
 ## Available Scripts
 
