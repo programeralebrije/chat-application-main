@@ -1,6 +1,7 @@
 import { useState } from 'react';
 import axios from 'axios';
 
+
 const projectID = '7c32c9bf-f078-4deb-a39b-e77b8214f903';
 
 const Modal = () => {
@@ -29,7 +30,7 @@ const Modal = () => {
   return (
     <div className="wrapper">
       <div className="form">
-        <h1 className="title">Chat Application</h1>
+        <img src={ ('./logochat.PNG')}/>
         <form onSubmit={handleSubmit}>
           <input type="text" value={username} onChange={(e) => setUsername(e.target.value)} className="input" placeholder="Username" required />
           <input type="password" value={password} onChange={(e) => setPassword(e.target.value)} className="input" placeholder="Password" required />
