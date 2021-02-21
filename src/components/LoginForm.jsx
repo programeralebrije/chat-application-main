@@ -32,6 +32,9 @@ const Modal = () => {
       <div className="form">
         <img src={ ('./logochat.PNG')}
               style={{width:'50%' , height: '50%' }}/>
+               <h1 className="title">to try app use </h1>
+               <h1 className="title">username: guest</h1>
+               <h1 className="title">password: 1234</h1>
         <form onSubmit={handleSubmit}>
           <input type="text" value={username} onChange={(e) => setUsername(e.target.value)} className="input" placeholder="Username" required />
           <input type="password" value={password} onChange={(e) => setPassword(e.target.value)} className="input" placeholder="Password" required />
