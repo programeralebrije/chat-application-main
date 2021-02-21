@@ -32,7 +32,7 @@ const Modal = () => {
       <div className="form">
         <img src={ ('./logochat.PNG')}
               style={{width:'50%' , height: '50%' }}/>
-               <h1 className="title">to try app use </h1>
+               <h1 className="title">TO TRY APP USE </h1>
                <h1 className="title">username: guest</h1>
                <h1 className="title">password: 1234</h1>
         <form onSubmit={handleSubmit}>
